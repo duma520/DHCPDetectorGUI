@@ -1,0 +1,96 @@
+{
+    "scan_time": "2026-01-15 05:45:49",
+    "total_servers": 10,
+    "results": [
+        {
+            "ip_address": "***已脱敏***-内网IP",
+            "mac_address": "B8:7B:97:1D:36:44",
+            "hostname": "DHCP-Server-25",
+            "vendor": "TP-Link",
+            "response_time": "6ms",
+            "status": "在线",
+            "timestamp": "2026-01-15 05:45:37"
+        },
+        {
+            "ip_address": "***已脱敏***-内网IP",
+            "mac_address": "5B:5F:23:52:FB:02",
+            "hostname": "DHCP-Server-50",
+            "vendor": "Cisco Systems",
+            "response_time": "1ms",
+            "status": "在线",
+            "timestamp": "2026-01-15 05:45:38"
+        },
+        {
+            "ip_address": "***已脱敏***-内网IP",
+            "mac_address": "62:B0:EA:3E:39:C4",
+            "hostname": "DHCP-Server-75",
+            "vendor": "TP-Link",
+            "response_time": "6ms",
+            "status": "在线",
+            "timestamp": "2026-01-15 05:45:40"
+        },
+        {
+            "ip_address": "***已脱敏***-内网IP",
+            "mac_address": "82:41:DF:C9:D8:42",
+            "hostname": "DHCP-Server-100",
+            "vendor": "Cisco Systems",
+            "response_time": "1ms",
+            "status": "在线",
+            "timestamp": "2026-01-15 05:45:41"
+        },
+        {
+            "ip_address": "***已脱敏***-内网IP",
+            "mac_address": "5D:4E:B0:77:84:5A",
+            "hostname": "DHCP-Server-125",
+            "vendor": "TP-Link",
+            "response_time": "6ms",
+            "status": "在线",
+            "timestamp": "2026-01-15 05:45:42"
+        },
+        {
+            "ip_address": "***已脱敏***-内网IP",
+            "mac_address": "37:AB:EB:3F:BD:70",
+            "hostname": "DHCP-Server-150",
+            "vendor": "Cisco Systems",
+            "response_time": "1ms",
+            "status": "在线",
+            "timestamp": "2026-01-15 05:45:43"
+        },
+        {
+            "ip_address": "***已脱敏***-内网IP",
+            "mac_address": "FF:2D:19:13:4C:06",
+            "hostname": "DHCP-Server-175",
+            "vendor": "TP-Link",
+            "response_time": "6ms",
+            "status": "在线",
+            "timestamp": "2026-01-15 05:45:45"
+        },
+        {
+            "ip_address": "***已脱敏***-内网IP",
+            "mac_address": "32:51:53:81:17:FC",
+            "hostname": "DHCP-Server-200",
+            "vendor": "Cisco Systems",
+            "response_time": "1ms",
+            "status": "在线",
+            "timestamp": "2026-01-15 05:45:46"
+        },
+        {
+            "ip_address": "***已脱敏***-内网IP",
+            "mac_address": "37:E2:4D:72:42:EB",
+            "hostname": "DHCP-Server-225",
+            "vendor": "TP-Link",
+            "response_time": "6ms",
+            "status": "在线",
+            "timestamp": "2026-01-15 05:45:47"
+        },
+        {
+            "ip_address": "***已脱敏***-内网IP",
+            "mac_address": "80:92:4E:A6:B5:1D",
+            "hostname": "DHCP-Server-250",
+            "vendor": "Cisco Systems",
+            "response_time": "1ms",
+            "status": "在线",
+            "timestamp": "2026-01-15 05:45:48"
+        }
+    ]
+}
